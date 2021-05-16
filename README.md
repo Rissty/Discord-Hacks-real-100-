@@ -1,2 +1,1 @@
-# Lemonayde
-discord bot
+ur mom
