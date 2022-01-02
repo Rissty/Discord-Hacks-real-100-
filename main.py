@@ -1,1 +1,46 @@
-print("Get Trolled")
+import Discord
+import request
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print("get trolled")
